@@ -119,6 +119,13 @@ The system retrieves relevant content and generates accurate responses using a l
 - Add support for image-based PDFs (OCR)  
 - Deploy on cloud for public access
 
+## Demo
+
+Below is the interface of the PDF RAG Chatbot.  
+Users can upload a PDF and ask questions to get context-aware answers.
+
+![PDF Chatbot Demo](assets/screenshot.jpg)
+
   
 
 
